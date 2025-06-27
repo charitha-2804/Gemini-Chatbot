@@ -1,18 +1,6 @@
 # Gemini-Chatbot
 Gemini Chatbot is an AI-powered conversational assistant built by integrating Gemini with a custom frontend using HTML, CSS, and JavaScript, and a backend using Flask and Python. This project demonstrates how to connect Gemini's powerful language capabilities with a user-friendly web interface to create an interactive chatbot experience.
-🗂️ Project Structure
-bash
-Copy
-Edit
-Gemini-Chatbot/
-│
-├── integrations/
-│   └── Chatbot.html        # Frontend UI for the chatbot
-│
-├── chatbot.py              # Gemini API integration logic
-├── app.py                  # Flask app to serve the chatbot
-├── .env                    # Stores API key and environment variables
-└── README.md               # Project documentation
+
 ⚙️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
@@ -27,7 +15,7 @@ Environment Config: .env for storing secret keys
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Gemini-Chatbot.git
+git clone https://github.com/charitha-2804/Gemini-Chatbot.git
 cd Gemini-Chatbot
 2. Install Dependencies
 bash
